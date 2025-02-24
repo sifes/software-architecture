@@ -8,7 +8,7 @@ import (
 )
 
 type Response struct {
-	CurrentTime string `json:"current_time"`
+	CurrentTime string `json:"time"`
 }
 
 func handleTimeRequest(w http.ResponseWriter, r *http.Request) {
