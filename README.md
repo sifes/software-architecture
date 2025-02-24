@@ -7,5 +7,3 @@ made by
 - Anna Melnyk
 - Alexander Yermishyn
 - Yana Siryk
-
-IM A BAD COMMIT MESSAGE
