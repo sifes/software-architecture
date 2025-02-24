@@ -1,6 +1,6 @@
 # software-architecture
 
-repository for Software Architecture
+repository for Software Architecture. commit message for rebase commit
 made by
 
 - Korol Oleksandr
