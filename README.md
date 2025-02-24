@@ -6,3 +6,4 @@ made by
 - Korol Oleksandr
 - Anna Melnyk
 - Alexander Yermishyn
+- Yana Siryk
